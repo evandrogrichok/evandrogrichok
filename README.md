@@ -1,4 +1,4 @@
-![otaghi-2x](https://github.com/user-attachments/assets/21b3a8e5-5a03-44d9-aa9c-9a9b2c4933b1) Oi! Sou estudante de Ciência da Computação e gosto de programar e explorar novas tecnologias. Tenho interesse em desenvolvimento de jogos e web, e estou sempre buscando aprender mais.
+![otaghi-2x](https://github.com/user-attachments/assets/21b3a8e5-5a03-44d9-aa9c-9a9b2c4933b1) Oi! Sou estudante de Ciência da Computação e gosto de programar e explorar novas tecnologias. Tenho interesse em desenvolvimento de jogos, web e até mesmo design, e estou sempre buscando aprender mais.
     
         Atualmente, tenho experiência com:
     
