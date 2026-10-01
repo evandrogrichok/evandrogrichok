@@ -1,22 +1,24 @@
-## Hey There! I'm Evandro.
+
+## Hey There! I'm Evandro. ✨
 
 I'm a Computer Science student who enjoys programming, making games, and exploring new technologies. Currently, I'm focusing on **C# and game development with Unity**, while also exploring backend development and software engineering.
 
 ## Currently working with:
 
-    - C# – studying and developing a game with Unity;
-    - GML (GameMaker Language)** – game development;
-    - C – pointers, lists, stacks, data structures, and more;
-    - Python – general knowledge of the language;
-    - SQL / PL/SQL – queries and database programming;
-    - HTML & CSS – web structure and styling.
+### Tech
+`C#` `Unity` `GML` `GameMaker` `SQL` `PL/SQL` `C` `Python` 
+
+### Featured Projects
+
+🎮 [Lou](https://github.com/evandrogrichok/ProjetoLou)  
+Narrative 2D game made with Unity and C#.
+
+🌙 [Shards of Sorrow](https://github.com/evandrogrichok/Projeto-Codinome-DB)  
+Narrative RPG made with GameMaker and GML.
 
 ---
 
 Here on GitHub, I share projects, studies, and experiments as I continue learning and improving.
-
-My main projects currently are **[Lou](https://github.com/evandrogrichok/Projeto-Codinome-DB)**, developed with Unity and C#, and **[Shards of Sorrow](https://github.com/evandrogrichok/ProjectLou)**, developed with GameMaker.
-
 
 
 
