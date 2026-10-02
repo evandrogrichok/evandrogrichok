@@ -1,6 +1,9 @@
-## _Hey There! I'm Evandro._ ✨ 
+### _Hey There! I'm Evandro._ ✨
 
 I'm a Computer Science student who enjoys programming, making games, and exploring new technologies. Currently, I'm focusing on **C# and game development with Unity**, while also exploring backend development and software engineering.
+
+
+---
 
 ### Currently learning & using:
 
@@ -17,8 +20,7 @@ Narrative RPG made with GameMaker and GML.
 ---
 
 Here on GitHub, I share projects, studies, and experiments as I continue learning and improving.  
-
-### _Thank you for stopping by!_ 👋  
-<br>  
-  
 > _Hey! You may also find me as "**@eventolunar**" elsewhere. Don't worry! **That's still me :)**_
+
+### _Thank you for stopping by!_ 👋
+
