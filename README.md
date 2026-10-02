@@ -16,6 +16,7 @@ Narrative RPG made with GameMaker and GML.
 
 ---
 
-Here on GitHub, I share projects, studies, and experiments as I continue learning and improving.
+Here on GitHub, I share projects, studies, and experiments as I continue learning and improving.  
+> _Hey! You may also find me as "eventolunar" elsewhere. Don't worry! **That's still me :)**_
 
 ### _Thank you for stopping by!_ 👋
